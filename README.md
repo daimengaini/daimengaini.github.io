@@ -1,6 +1,6 @@
 # daimengaini.github.io
 My CV
-<img src="daimeng.github.io/_0745.jpeg" alt="RPB Photo" align="right" width="30%"/>
+<img src="IMG_0745.jpeg" alt="RPB Photo" align="right" width="30%"/>
 
 # _Robert P Batzinger_
 > _Praeceptor Emeritus_<br />
